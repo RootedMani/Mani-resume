@@ -1,6 +1,6 @@
 💼 Mani Obara
 📍 Tehran, Iran
-📧 Email : Mani.Obara.Work@gmail.com
+📧 Email : Mani.Obara.Jabari@gmail.com
 
 🎯 Objective
 
@@ -16,20 +16,10 @@ Other Skills: Troubleshooting, Research, Writing Clean and Readable Code, Consis
 
 🧠 Projects
 
-1. Student Performance Prediction (Personal Project)
-Analyzed factors affecting students’ academic performance using a public dataset.
-Applied Python libraries (Pandas, Scikit-learn, Seaborn) for data cleaning, visualization, and regression modeling.
-
-2. Image Classification Experiment
-Built a simple image classifier with Scikit-learn and Matplotlib.
-Explored basic ML concepts like training/test splits, model evaluation, and confusion matrices.
-
-3. Data Visualization Practice
-Practiced data visualization on public datasets from Kaggle.
-Created informative graphs and charts using Seaborn and Matplotlib.
-
-4. House Price Prediction:
-predicting the house price based on different factors
+1. X-O Arena:
+It's a game of Tic Tac Toe where you can play with robot. The robot is powered by my latest model TMC 1.0 which contains several models for the best performance.
+2. Daftarche Khatereh:
+A program that gets text and store them.
 
 🚀 Achievements & Activities
 Self-taught Python programmer with 2 years of consistent coding experience.
