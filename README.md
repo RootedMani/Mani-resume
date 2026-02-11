@@ -22,6 +22,7 @@ It's a game of Tic Tac Toe where you can play with robot. The robot is powered b
 A program that gets text and store them.
 3. rcj soccersim junior project: In this project you have to create alogrithms for robots in each team in order for them to score goals and win against their opponents. this robots may talk to each other and
 think to go with the best move.
+4. Calculator: it is a very simple, command line base calculator which I have written in my free time for fun. it can handle exceptions and it was a python practice for me at the time.
 
 🚀 Achievements & Activities
 Self-taught Python programmer with 2 years of consistent coding experience.
